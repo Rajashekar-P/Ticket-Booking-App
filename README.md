@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * Added Search Functionality To fetch Movie Details By Movie Name, ActorName, DirectorName, Language.
+
+* Added Bootstrap to Our Application.Applied Some UI Using Bootstrap
